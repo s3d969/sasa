@@ -1,1 +1,41 @@
-sasasa sa sa sa
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "Tajawal", sans-serif;
+}
+.ww {
+  /* background-color: red; */
+  width: 250px;
+  height: 200px;
+  border: 1px solid #ddd;
+  margin: 30px auto;
+}
+.s1 {
+  width: 100%;
+  height: 140px;
+  color: #fff;
+  text-align: center;
+  background: linear-gradient(135deg, #ea6153 0, #d62c1a 100%) !important;
+}
+.s1 h1 {
+  padding-top: 10px;
+}
+.s1 p {
+  padding-top: 10px;
+}
+.s2 {
+  width: 100%;
+  height: 60px;
+  color: #444;
+  text-align: center;
+}
+
+.s2 p {
+  padding-top: 15px;
+}
+
+.ddd {
+  background: linear-gradient(135deg, #d262e3 0, #3f9ce8 100%) !important;
+}
